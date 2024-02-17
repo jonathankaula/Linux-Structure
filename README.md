@@ -2,11 +2,11 @@
 ## Linux-Structure
 
 ### i. Philosophy
-1. Everything is a file
-2. Small, single-purpose programs
-3. Ability to chain programs together to perform complex tasks
-4. Avoid captive user interfaces
-5. Configuration data stored in a text file
+* Everything is a file
+* Small, single-purpose programs
+* Ability to chain programs together to perform complex tasks
+* Avoid captive user interfaces
+* Configuration data stored in a text file
 
 ### ii. Components
 * **Bootloader**  - Program used to guide the booting processes to start the OS e.g GRUB
