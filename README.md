@@ -1,6 +1,6 @@
 # LINUX FUNDAMENTALS
 ## Introduction
-## 1. Linux-Structure
+## 1. *Linux-Structure*
 
 #### i. Philosophy
 * Everything is a file
