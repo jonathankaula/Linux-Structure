@@ -1,11 +1,11 @@
 # Linux-Structure
 
 ## Philosophy
-a. Everything is a file
-b. Small, single-purpose programs
-c. Ability to chain programs together to perform complex tasks
-d. Avoid captive user interfaces
-e. Configuration data stored in a text file
+1. Everything is a file
+2. Small, single-purpose programs
+3. Ability to chain programs together to perform complex tasks
+4. Avoid captive user interfaces
+5. Configuration data stored in a text file
 
 ## Components
 a. Bootloader
