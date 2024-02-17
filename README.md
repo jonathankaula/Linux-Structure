@@ -14,5 +14,5 @@
 * **Daemons** - Background processes e.g Systemd
 * **OS Shell** - Command Language interpreter that provides users with an interface to control/interact with the OS
 * **Graphics Server** - Provides X-Server that allows graphical apps to run either locally or remotely
-6. **Window Manager** - Also known as GUI e.g GNOME, KDE
-7. **Utilities/Applications** - programs that perform particular functions for the user or another program.
+* **Window Manager** - Also known as GUI e.g GNOME, KDE
+* **Utilities/Applications** - programs that perform particular functions for the user or another program.
