@@ -18,4 +18,7 @@
 * **Utilities/Applications** - programs that perform particular functions for the user or another program.
 
  ### iii. Linux Architecture
- * *** Hardware *** 
+ * *Hardware*
+ * *Kernel*
+ * *Shell*
+ * *System Utility*
