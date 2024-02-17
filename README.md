@@ -8,10 +8,10 @@
 5. Configuration data stored in a text file
 
 ## Components
-a. Bootloader
-b. OS Kernel
-c. Daemons
-d. OS Shell
-e. Graphics Server
-f. Window Manager
-g. Utilities
+1. Bootloader
+2. OS Kernel
+3. Daemons
+4. OS Shell
+5. Graphics Server
+6. Window Manager
+7. Utilities
