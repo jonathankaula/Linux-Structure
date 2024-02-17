@@ -16,3 +16,6 @@
 * **Graphics Server** - Provides X-Server that allows graphical apps to run either locally or remotely
 * **Window Manager** - Also known as GUI e.g GNOME, KDE
 * **Utilities/Applications** - programs that perform particular functions for the user or another program.
+
+ ### iii. Linux Architecture
+ * *** Hardware *** 
