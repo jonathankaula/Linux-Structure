@@ -23,3 +23,20 @@
  * *Kernel*
  * *Shell*
  * *System Utility*
+
+#### iv. File System Hierachy
+* /root
+* /bin
+* /boot
+* /dev
+* /etc
+* /home
+* /lib
+* /media
+* /mnt
+* /opt
+* /sbin
+* /tmp
+* /usr
+* /var
+
