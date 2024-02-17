@@ -1,5 +1,8 @@
 # Linux-Structure
 
 ##Philosophy
-
-This is a bit by bit breakdown of the Linux structure
+1. Everything is a file
+2. Small, single-purpose programs
+3. Ability to chain programs together to perform complex tasks
+4. Avoid captive user interfaces
+5. Configuration data stored in a text file
